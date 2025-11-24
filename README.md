@@ -1,36 +1,32 @@
   # CSE-VITyarthi-project
-This is  a college project git repository
-<br>
-Author :- Anmol - savalkar
-<br>
+
+Name :- Anmol - savalkar
+
 Registration No. :- 25MIP10010
-<br>
-College Name :- VIT BHOPAL 
-<br>
+
 
 Project Title :- DIGITAL RESUME CHECKER
-<br>
+
 
 Overview of the project :
 The Digital Resume Checker is a program designed to check and analyze resumes effectively using keywords matching and scoring data. This project helps students, job applicants, and companies by providing a quick and friendly way of resume based on important skill such as technical skills, communication skills, experiences and past-behaviour . 
-<br>s
+
 
 Features :
 1. Automated Resume checking  :-
  This system  reads and processes resume content from a text file, which helps to eliminate the need of review and saves time.
- <br>
 
 2. Keyword-Based Skill Matching :-
  It compares the resume content with technical and non-technical skill keywords by arrays and sorting for accurate detection of relevant skills.
- <br>
+   
 
  3. Use of NumPy library :-
  NumPy is used to manage keyword arrays, proper matches for the job and deals with scoring result accurately.
-<br>
+
 
 4. Matplotlib (Graphical Result Visualization)  :-
  The bar chart is created using Matplotlib to visually show performance in categories like technical skills, soft skills, and resume structure.
-<br>
+
 
 Technologies and Tools used :-
 1.python programming language.
