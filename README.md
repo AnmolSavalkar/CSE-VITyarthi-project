@@ -113,4 +113,4 @@ Record observations including:
 Errors identified
 Scores obtained
 System responses
-Suggestions generated
+Suggestions generated.
