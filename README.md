@@ -114,3 +114,7 @@ Errors identified
 Scores obtained
 System responses
 Suggestions generated.
+
+
+<img width="953" height="518" alt="Screenshot 2025-11-24 145452" src="https://github.com/user-attachments/assets/f95e006d-c62f-4fcd-ad21-bbd66cf2be35" />
+
